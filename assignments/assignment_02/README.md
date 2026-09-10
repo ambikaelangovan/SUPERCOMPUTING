@@ -117,7 +117,11 @@ key:
 $ git status \
 $ git add . \
 $ git commit -m "downloaded NCBI files and confirmed they transferred successfully to HPC" \
-$ git push origin main 
+$ git push origin main
+
+*(pulling updated repository into HPC)*
+$ bora
+$git pull
 
 ---
 
