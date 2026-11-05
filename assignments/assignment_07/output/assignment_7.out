@@ -1,0 +1,6 @@
+Archive:  data/dog_reference/dog.zip
+  inflating: data/dog_reference/README.md  
+  inflating: data/dog_reference/ncbi_dataset/data/assembly_data_report.jsonl  
+  inflating: data/dog_reference/ncbi_dataset/data/GCF_011100685.1/GCF_011100685.1_UU_Cfam_GSD_1.0_genomic.fna  
+  inflating: data/dog_reference/ncbi_dataset/data/dataset_catalog.json  
+  inflating: data/dog_reference/md5sum.txt  

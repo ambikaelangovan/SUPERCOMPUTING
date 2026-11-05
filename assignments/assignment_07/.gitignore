@@ -1,0 +1,15 @@
+data/raw/
+data/clean/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+
+data/dog_reference/
+*.fna
+*.zip
+
+
+*.sam
+*.bam
